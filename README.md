@@ -1,7 +1,8 @@
 # VMC
 Variational Monte Carlo
 
-In the project, I use ["VMC"](https://en.wikipedia.org/wiki/Variational_Monte_Carlo) to calculate ground state energy of He atom and n number of bosonic particle in m dimension.
+In the project, I use ["VMC"](https://en.wikipedia.org/wiki/Variational_Monte_Carlo) to calculate the ground state
+energy of He atom and n-number of bosonic particles in m dimensions.
 
 
 ## Note
